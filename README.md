@@ -23,4 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainnaino&show_icons=true&locale=en&layout=compact" alt="hasnainnaino" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainnaino&show_icons=true&locale=en" alt="hasnainnaino" /></p>
-<h3 align="center">open source Cintrubutor from Pakistan 💚</h3>
+<h3 align="center">open source Contributor from Pakistan 💚</h3>
